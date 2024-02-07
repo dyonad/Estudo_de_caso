@@ -1,0 +1,1 @@
+C:\Users\Kalli\Downloads\FreeRTOSv202212.01\FreeRTOSv202212.01\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
